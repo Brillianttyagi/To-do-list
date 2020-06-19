@@ -2,4 +2,8 @@
 
 It is to do list created in javascript
 
-Created by me
+Features:
+* Create
+* Delete 
+
+# Mobile friendly
